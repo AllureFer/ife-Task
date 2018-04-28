@@ -1,0 +1,30 @@
+4月26日，今日学习总用时3小时
+		大致了解了网站访问过程，浏览器与服务器的交流，服务器与数据库的交流过程。
+		
+
+至于HTML、CSS与JavaScript
+* 	  HTML是超文本标记语言，不是编程语言（Hyper Text Markup Language）
+	是一个静态的网页
+	例：
+			
+			
+```
+		<html>
+		<body>
+
+		<h1>我的第一个
+
+		<p>我的第一个段落。</p>
+
+		</body>
+		</html>
+```
+						
+						
+* 	  CSS是指层叠样式表（Cascading Style Sheets）
+  它来负责页面的布局样式以及颜色、色彩的搭配
+*     JavaScript是轻量级的编程语言
+	它负责页面的操作需求，一些动态的效果，炫酷的特效。
+			
+  大概了解了一些后台语言及数据库。实话讲，一些web service、脚本之类的，作为一个文科生来说看过一遍大致了解，概念有点抽象，需要更多的资料和时间充实，可能过后提起来会又有点懵。
+	另关于web service推荐阮一峰的http://www.ruanyifeng.com/blog/2009/08/what_is_web_service 虽然日期较早，不过对我来说比较好懂。
